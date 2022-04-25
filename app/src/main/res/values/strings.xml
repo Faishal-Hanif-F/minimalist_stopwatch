@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Stopwatch project</string>
+    <string name="stopwatch_page">Stopwatch</string>
+    <string name="settings_page">Settings</string>
+    <string name="lap_text">
+        Laps:\n
+        \t1. 01:12:32 \- 01:12:32\n
+        \t1. 01:12:32 \- 01:12:32\n
+        \t1. 01:12:32 \- 01:12:32\n
+    </string>
+    <string name="color_settings">Color</string>
+
+</resources>
